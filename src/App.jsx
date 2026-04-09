@@ -380,7 +380,7 @@ function App() {
         <div className="hero-content">
           <span className="hero-badge">Laboratório prático de APIs REST</span>
           <h1 className="hero-titulo">
-            CRUD Tester <span className="hero-highlight">Pedagógico</span>
+            CRUD Tester <span className="hero-highlight">DSPW</span>
           </h1>
           <p className="hero-subtitulo">
             Escolha um contexto, inicie seu servidor e teste suas rotas REST de forma visual.
@@ -691,7 +691,7 @@ app.use(cors());`}
       </main>
 
       <footer className="footer">
-        CRUD Tester Pedagógico · Laboratório de APIs REST
+        Profª Marianne Dutra · Desenvolvimento de Software para Web · 2026
       </footer>
 
     </div>

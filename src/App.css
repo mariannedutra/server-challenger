@@ -73,7 +73,7 @@ code {
 }
 
 /* === Layout === */
-.app { min-height: 100vh; display: flex; flex-direction: column; }
+.app { min-height: 100vh; display: flex; flex-direction: column; gap:4rem }
 
 /* =====================
    HERO
@@ -81,7 +81,7 @@ code {
 .hero {
   background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 55%, #2563eb 100%);
   color: white;
-  padding: 44px 24px 56px;
+  padding: 44px 24px;
   position: relative;
   overflow: hidden;
 }
